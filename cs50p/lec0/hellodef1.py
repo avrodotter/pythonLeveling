@@ -6,3 +6,7 @@ def hello(to):
 # Prompts user for name and passes it as an argument into hello()
 name = input("What's your name? ")
 hello(name)
+
+# In this example, `hello` is the name of the function, and it takes one parameter, `to`. 
+# The code inside the function defines what happens when the function is called: 
+# it returns a string that greets the person with their name.
