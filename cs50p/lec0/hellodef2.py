@@ -1,6 +1,6 @@
 # Function with default parameter value ('world') if no argument is supplied
 def hello(to="world"):
-    print("hello, ", to)
+    print("hello,", to)
 
 
 # Calling hello() with no arguments uses default value 'world'

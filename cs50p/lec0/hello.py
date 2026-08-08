@@ -4,7 +4,7 @@ name = input("What's your name? ")
 # Print by concatenating "hello, " with the name
 print("hello, " + name)
 
-# Print using separate arguments; Python adds a space between them
+# Print using separate arguments; Python adds a space between them by default
 print("Hello,", name)
 
 """this is how multiline comments are written.
